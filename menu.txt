@@ -1,1 +1,5 @@
-menu.txt
+Coffee 2.99   150
+Donuts 3.99   1500
+
+Nocha  3.15   200cal
+Expresso 3.25 250cal
