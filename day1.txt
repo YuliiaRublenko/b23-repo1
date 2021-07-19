@@ -1,0 +1,4 @@
+day1.txt
+
+B23 is learning git
+We just made our first commit
